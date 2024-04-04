@@ -1,2 +1,1 @@
-# y78s.github.io
-Unblocked Games For School
+# Unblocked Games For School!
