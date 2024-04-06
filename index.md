@@ -19,10 +19,10 @@ Play Web Games -> [[CLICK HERE]](webgames) ( A collection of random HTML5, flash
 Play 1v1.lol -> [[CLICK HERE]](https://1v1.lol) ( fortnite xD )
 ## ------------------------------------------------
 ## Cookie Clicker
-Play Cookie Clicker -> [[CLICK HERE]](cookieclicker) ( click a cookie! )
+Play Cookie Clicker -> [[CLICK HERE]](https://orteil.dashnet.org/cookieclicker/) ( click a cookie! )
 ## ------------------------------------------------
 ## Super Mario 64
-Play Super Mario 64 -> [[CLICK HERE]](sm64) ( super mario in your browser! )
+Play Super Mario 64 -> [[CLICK HERE]](https://arkshocer.github.io/sm64/) ( super mario in your browser! )
 ## ------------------------------------------------
 
 ### the perfect place for procrastination :)
