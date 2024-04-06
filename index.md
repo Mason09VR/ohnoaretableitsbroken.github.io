@@ -25,4 +25,4 @@ Play Super Mario 64 -> [[CLICK HERE]](sm64) ( super mario in your browser! )
 ## ------------------------------------------------
 
 ### the perfect place for procrastination :)
-i made this website bc bidoofery.github.io got blocked at my school lol
+i made this website bc unblockpanda.github.io got blocked at my school lol
