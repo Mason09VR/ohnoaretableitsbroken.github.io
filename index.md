@@ -2,7 +2,7 @@
 Full Website Credits to [[Unblockpanda]](https://github.com/unblockpanda/unblockpanda.github.io) I am just reuploading it
 ## ------------------------------------------------
 ## Shadow's Games
-Play Shadow's Games -> [[CLICK HERE]](shadowgmes) ( rlly good games! )
+Play Shadow's Games -> [[CLICK HERE]]([shadowgmes](https://shadowgmes.github.io)) ( rlly good games! )
 ## ------------------------------------------------
 ## Native Games
 Play Native Games -> [[CLICK HERE]](nativegames) ( LOTS of fun games )
