@@ -5,7 +5,7 @@ Full Website Credits to [[Unblockpanda]](https://github.com/unblockpanda/unblock
 Play Shadow's Games -> [[CLICK HERE]](https://shadowgmes.github.io)) ( rlly good games! )
 ## ------------------------------------------------
 ## Native Games
-Play Native Games -> [[CLICK HERE]](nativegames) ( LOTS of fun games )
+Play Native Games -> [[CLICK HERE]](nativegames) ( LOTS of fun games ) NOT WORKING CURRENTLY
 ## ------------------------------------------------
 ## MathGames66
 Play MathGames66 -> [[CLICK HERE]](https://mathgames66.github.io) ( omg very fancy )
