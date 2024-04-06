@@ -11,7 +11,7 @@ Play Native Games -> [[CLICK HERE]](nativegames) ( LOTS of fun games ) NOT WORKI
 Play MathGames66 -> [[CLICK HERE]](https://mathgames66.github.io) ( omg very fancy )
 ## ------------------------------------------------
 ## Web Games
-Play Web Games -> [[CLICK HERE]](webgames) ( A collection of random HTML5, flash, and webretro games )
+Play Web Games -> [[CLICK HERE]](webgames) ( A collection of random HTML5, flash, and webretro games ) NOT WORKING CURRENTLY
 # ------------------------------------------------
 # INDIVIDUAL GAMES
 ## ------------------------------------------------
