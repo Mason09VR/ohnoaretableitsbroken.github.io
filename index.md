@@ -16,7 +16,7 @@ Play Web Games -> [[CLICK HERE]](webgames) ( A collection of random HTML5, flash
 # INDIVIDUAL GAMES
 ## ------------------------------------------------
 ## 1v1 Lol
-Play 1v1.lol -> [[CLICK HERE]](1v1lol) ( fortnite xD )
+Play 1v1.lol -> [[CLICK HERE]](https://1v1.lol) ( fortnite xD )
 ## ------------------------------------------------
 ## Cookie Clicker
 Play Cookie Clicker -> [[CLICK HERE]](cookieclicker) ( click a cookie! )
