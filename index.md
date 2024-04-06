@@ -16,10 +16,10 @@ Play Web Games -> [[CLICK HERE]](webgames) ( A collection of random HTML5, flash
 # INDIVIDUAL GAMES
 ## ------------------------------------------------
 ## 1v1 Lol
-Play 1v1.lol -> [[CLICK HERE]](https://1v1.lol) ( fortnite xD )
+Play 1v1.lol -> [[CLICK HERE]](https://1v1.lol) ( fortnite xD ) Not working YET
 ## ------------------------------------------------
 ## Cookie Clicker
-Play Cookie Clicker -> [[CLICK HERE]](https://orteil.dashnet.org/cookieclicker/) ( click a cookie! )
+Play Cookie Clicker -> [[CLICK HERE]](https://ttfq.github.io/cookieclicker/) ( click a cookie! ) Thanks to my friend for letting me borrow this cookie clicker link :)
 ## ------------------------------------------------
 ## Super Mario 64
 Play Super Mario 64 -> [[CLICK HERE]](https://arkshocer.github.io/sm64/) ( super mario in your browser! )
