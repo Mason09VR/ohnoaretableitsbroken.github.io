@@ -16,7 +16,7 @@ Play Web Games -> [[CLICK HERE]](webgames) ( A collection of random HTML5, flash
 # INDIVIDUAL GAMES
 ## ------------------------------------------------
 ## 1v1 Lol
-Play 1v1.lol -> [[CLICK HERE]](Mason09VR/y78s.github.io/blob/main/1v1LOL) [[ALTERNATIVE WEBSITE]](https://tylerpalko.github.io/gamehub/1v1.lol/) ( fortnite xD )
+Play 1v1.lol -> [[CLICK HERE]](https://github.com/Mason09VR/y78s.github.io/blob/main/1v1LOL) [[ALTERNATIVE WEBSITE]](https://tylerpalko.github.io/gamehub/1v1.lol/) ( fortnite xD )
 ## ------------------------------------------------
 ## Cookie Clicker
 Play Cookie Clicker -> [[CLICK HERE]](https://ttfq.github.io/cookieclicker/) ( click a cookie! ) Thanks to my friend for letting me borrow this cookie clicker link [[TTFQ]](https://ttfq.github.io) :)
