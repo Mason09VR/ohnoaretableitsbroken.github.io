@@ -7,7 +7,7 @@ Reuploaded by Mason09VR
 Play Shadow's Games -> [[CLICK HERE]](https://shadowgmes.github.io) ( rlly good games! )
 ## ------------------------------------------------
 ## SZ Games
-Play Native Games -> [[CLICK HERE]](nativegames) ( LOTS of fun games ) NOT WORKING CURRENTLY
+Play SZ Games -> [[CLICK HERE]](https://mason09vr.github.io/sz-games/) ( LOTS of fun games )
 ## ------------------------------------------------
 ## MathGames66
 Play MathGames66 -> [[CLICK HERE]](https://mathgames68.github.io) ( omg very fancy )
