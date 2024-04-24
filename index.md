@@ -4,7 +4,7 @@ Full Website Credits to [[Unblockpanda]](https://github.com/unblockpanda/unblock
 Reuploaded by Mason09VR
 ## ------------------------------------------------
 ## Shadow's Games
-Play Shadow's Games -> [[CLICK HERE]](https://mason09vr.github.io/webgames/) ( rlly good games! )
+Play Shadow's Games -> [[CLICK HERE]](https://shadowgmes.github.io) ( rlly good games! )
 ## ------------------------------------------------
 ## Native Games
 Play Native Games -> [[CLICK HERE]](nativegames) ( LOTS of fun games ) NOT WORKING CURRENTLY
@@ -13,7 +13,7 @@ Play Native Games -> [[CLICK HERE]](nativegames) ( LOTS of fun games ) NOT WORKI
 Play MathGames66 -> [[CLICK HERE]](https://mathgames68.github.io) ( omg very fancy )
 ## ------------------------------------------------
 ## Web Games
-Play Web Games -> [[CLICK HERE]](webgames) ( A collection of random HTML5, flash, and webretro games ) NOT WORKING CURRENTLY
+Play Web Games -> [[CLICK HERE]](https://mason09vr.github.io/webgames/) ( A collection of random HTML5, flash, and webretro games ) NOT WORKING CURRENTLY
 # ------------------------------------------------
 # INDIVIDUAL GAMES
 ## ------------------------------------------------
