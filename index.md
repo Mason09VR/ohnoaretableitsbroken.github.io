@@ -6,7 +6,7 @@ Reuploaded by Mason09VR
 ## Shadow's Games
 Play Shadow's Games -> [[CLICK HERE]](https://shadowgmes.github.io) ( rlly good games! )
 ## ------------------------------------------------
-## Native Games
+## SZ Games
 Play Native Games -> [[CLICK HERE]](nativegames) ( LOTS of fun games ) NOT WORKING CURRENTLY
 ## ------------------------------------------------
 ## MathGames66
@@ -25,6 +25,9 @@ Play Cookie Clicker -> [[CLICK HERE]](https://ttfq.github.io/cookieclicker/) ( c
 ## ------------------------------------------------
 ## Super Mario 64
 Play Super Mario 64 -> [[CLICK HERE]](https://arkshocer.github.io/sm64/) ( super mario in your browser! )
+## ------------------------------------------------
+## Hockey Games
+Play Hockey Games -> [[CLICK HERE]](https://arkshocer.github.io/sm64/) ( Not really hockey just web name with tons of games! )
 ## ------------------------------------------------
 
 ### the perfect place for procrastination :)
