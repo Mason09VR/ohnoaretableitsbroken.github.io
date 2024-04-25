@@ -27,7 +27,7 @@ Play Cookie Clicker -> [[CLICK HERE]](https://ttfq.github.io/cookieclicker/) ( c
 Play Super Mario 64 -> [[CLICK HERE]](https://arkshocer.github.io/sm64/) ( super mario in your browser! )
 ## ------------------------------------------------
 ## Hockey Games
-Play Hockey Games -> [[CLICK HERE]](https://arkshocer.github.io/sm64/) ( Not really hockey just web name with tons of games! )
+Play Hockey Games -> [[CLICK HERE]](https://he1l.netlify.app) ( Not really hockey just web name with tons of games! )
 ## ------------------------------------------------
 
 ### the perfect place for procrastination :)
