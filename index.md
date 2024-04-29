@@ -29,6 +29,9 @@ Play Super Mario 64 -> [[CLICK HERE]](https://arkshocer.github.io/sm64/) ( super
 ## Hockey Games
 Play Hockey Games -> [[CLICK HERE]](https://he1l.netlify.app) ( Not really hockey just web name with tons of games! )
 ## ------------------------------------------------
+## Unblocked Search
+Search Unblocked! -> [[CLICK HERE]](https://he1l.netlify.app) ( Just search the web unblocked in school! )
+## ------------------------------------------------
 
 ### the perfect place for procrastination :)
 i made this website bc unblockpanda.github.io got blocked at my school lol
