@@ -30,7 +30,7 @@ Play Super Mario 64 -> [[CLICK HERE]](https://arkshocer.github.io/sm64/) ( super
 Play Hockey Games -> [[CLICK HERE]](https://he1l.netlify.app) ( Not really hockey just web name with tons of games! )
 ## ------------------------------------------------
 ## Unblocked Search
-Search Unblocked! -> [[CLICK HERE]](https://ashland.lovethosetrains.com/) ( Just search the web unblocked in school! )
+Search Unblocked! -> [[CLICK HERE]](https://natleef.nathan.to) ( Just search the web unblocked in school! )
 ## ------------------------------------------------
 
 ### the perfect place for procrastination :)
