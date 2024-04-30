@@ -15,6 +15,12 @@ Play MathGames66 -> [[CLICK HERE]](https://mathgames68.github.io) ( omg very fan
 ## Web Games
 Play Web Games -> [[CLICK HERE]](https://mason09vr.github.io/webgames/) ( A collection of random HTML5, flash, and webretro games ) NOT WORKING CURRENTLY
 # ------------------------------------------------
+## Hockey Games
+Play Hockey Games -> [[CLICK HERE]](https://he1l.netlify.app) ( Not really hockey just web name with tons of games! )
+## ------------------------------------------------
+## Unblocked Search
+Search Unblocked! -> [[CLICK HERE]](https://natleef.nathan.to) ( Just search the web unblocked in school! )
+## ------------------------------------------------
 # INDIVIDUAL GAMES
 ## ------------------------------------------------
 ## 1v1 Lol
@@ -25,12 +31,6 @@ Play Cookie Clicker -> [[CLICK HERE]](https://ttfq.github.io/cookieclicker/) ( c
 ## ------------------------------------------------
 ## Super Mario 64
 Play Super Mario 64 -> [[CLICK HERE]](https://arkshocer.github.io/sm64/) ( super mario in your browser! )
-## ------------------------------------------------
-## Hockey Games
-Play Hockey Games -> [[CLICK HERE]](https://he1l.netlify.app) ( Not really hockey just web name with tons of games! )
-## ------------------------------------------------
-## Unblocked Search
-Search Unblocked! -> [[CLICK HERE]](https://natleef.nathan.to) ( Just search the web unblocked in school! )
 ## ------------------------------------------------
 
 ### the perfect place for procrastination :)
