@@ -33,7 +33,7 @@ Play Cookie Clicker -> [[CLICK HERE]](https://ttfq.github.io/cookieclicker/) ( c
 Play Super Mario 64 -> [[CLICK HERE]](https://arkshocer.github.io/sm64/) ( super mario in your browser! )
 ## ------------------------------------------------
 ## JustFall LOL
-Play JustFall.lol -> [[CLICK HERE]](mason09vr.github.io/justfallllllll.lol/) ( fall guys xD )
+Play JustFall.lol -> [[CLICK HERE]](https://mason09vr.github.io/justfallllllll.lol/) ( fall guys xD )
 ## ------------------------------------------------
 
 ### the perfect place for procrastination :)
