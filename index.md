@@ -30,7 +30,7 @@ Play 1v1.lol -> [[CLICK HERE]](https://mason09vr.github.io/1v1lol/) [[ALTERNATIV
 Play Cookie Clicker -> [[CLICK HERE]](https://ttfq.github.io/cookieclicker/) ( click a cookie! ) Thanks to my friend for letting me borrow this cookie clicker link [[TTFQ]](https://ttfq.github.io) :)
 ## ------------------------------------------------
 ## Super Mario 64
-Play Super Mario 64 -> [[CLICK HERE]](https://arkshocer.github.io/sm64/) ( super mario in your browser! )
+Play Super Mario 64 -> [[CLICK HERE]](https://mason09vr.github.io/sm64/) ( super mario in your browser! )
 ## ------------------------------------------------
 ## JustFall LOL
 Play JustFall.lol -> [[CLICK HERE]](https://mason09vr.github.io/justfallllllll.lol/) ( fall guys xD )
