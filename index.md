@@ -10,7 +10,7 @@ Play Shadow's Games -> [[CLICK HERE]](https://shadowgmes.github.io) ( rlly good 
 Play SZ Games -> [[CLICK HERE]](https://mason09vr.github.io/sz-games/) ( LOTS of fun games )
 ## ------------------------------------------------
 ## MathGames66
-Play MathGames66 -> [[CLICK HERE]](https://mathgames68.github.io) ( omg very fancy )
+Play MathGames66 -> [[CLICK HERE]](https://mason09vr.github.io/mathgames60.github.io/) ( omg very fancy )
 ## ------------------------------------------------
 ## Web Games
 Play Web Games -> [[CLICK HERE]](https://mason09vr.github.io/webgames/) ( A collection of random HTML5, flash, and webretro games ) NOT WORKING CURRENTLY
