@@ -37,8 +37,6 @@ Play JustFall.lol -> [[CLICK HERE]](https://mason09vr.github.io/justfallllllll.l
 ## ------------------------------------------------
 ## The Cube
 Play The cube -> [[CLICK HERE]](https://mason09vr.github.io/the-cube/) ( A virtual 3x3 Rubix Cube for all the speedcubers, and me! xD )
-
-
-
+## ------------------------------------------------
 ### the perfect place for procrastination :)
 i made this website bc unblockpanda.github.io got blocked at my school lol
