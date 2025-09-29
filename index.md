@@ -41,5 +41,8 @@ Play The cube -> [[CLICK HERE]](https://mason09vr.github.io/the-cube/) ( A virtu
 ## Monkey Mart
 Play Monkey Mart -> [[CLICK HERE]](https://mason09vr.github.io/monkemarketing.github.io/) ( Run a market as a monkey XD! )
 ## ------------------------------------------------
+## Jump King
+Play Jump King -> [[CLICK HERE]](https://mason09vr.github.io/Jump-King/) ( Play Jump King One of the most rage inducing game ever made! (All Credit goes to Code Bullet) )
+## ------------------------------------------------
 ### the perfect place for procrastination :)
 i made this website bc unblockpanda.github.io got blocked at my school lol
