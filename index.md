@@ -21,6 +21,12 @@ Play Hockey Games -> [[CLICK HERE]](https://he1l.netlify.app) ( Not really hocke
 ## Unblocked Search
 Search Unblocked! -> [[CLICK HERE]](https://natleef.nathan.to) ( Just search the web unblocked in school! )
 ## ------------------------------------------------
+## Snorlax Cave
+Search Unblocked! -> [[CLICK HERE]] (snorlaxs-cave-is-goated-582950.vercel.app) ( Snorlax Cave is full of full games you can try out! )
+## ------------------------------------------------
+## Interstellar
+Search Unblocked! -> [[CLICK HERE]] (interstellar-15-g0ated.vercel.app) ( Interstellar is a game website with a bunch of games to try out! )
+## ------------------------------------------------
 # INDIVIDUAL GAMES
 ## ------------------------------------------------
 ## 1v1 Lol
